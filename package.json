@@ -1,16 +1,16 @@
 {
   "name": "eslint-config-jared",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Jared's personal ESLint configuration.",
   "keywords": "eslint,config,standard,standardjs",
   "main": "index.js",
   "author": "Jared Reich <hello@jaredreich.com> (https://jaredreich.com)",
   "license": "MIT",
   "dependencies": {
-    "eslint": "3.3.0",
-    "eslint-config-standard": "5.3.5",
-    "eslint-plugin-html": "1.7.0",
-    "eslint-plugin-promise": "2.0.1",
-    "eslint-plugin-standard": "2.0.0"
+    "eslint": "3.16.1",
+    "eslint-config-standard": "6.2.1",
+    "eslint-plugin-html": "2.0.1",
+    "eslint-plugin-promise": "3.4.2",
+    "eslint-plugin-standard": "2.0.1"
   }
 }
