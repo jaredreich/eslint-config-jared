@@ -3,7 +3,7 @@ module.exports = {
   'plugins': [
     'standard',
     'promise',
-    'html'
+    'html',
   ],
   'rules': {
     // ===== GENERAL =====
@@ -15,7 +15,7 @@ module.exports = {
     'arrow-parens': ['error', 'as-needed'],
     'arrow-spacing': 'error',
     'constructor-super': 'error',
-    'generator-star-spacing': ['error', {'before': true, 'after': true}],
+    'generator-star-spacing': ['error', { 'after': true, 'before': true }],
     'no-class-assign': 'error',
     'no-confusing-arrow': ['error', { 'allowParens': false }],
     'no-const-assign': 'error',
@@ -41,6 +41,6 @@ module.exports = {
     'sort-imports': ['error', { 'ignoreCase': true }],
     // 'symbol-description': 'error',
     'template-curly-spacing': 'error',
-    'yield-star-spacing': ['error', 'both']
-  }
+    'yield-star-spacing': ['error', 'both'],
+  },
 }
