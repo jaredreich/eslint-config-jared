@@ -1,10 +1,9 @@
 {
   "name": "eslint-config-jared",
-  "version": "1.2.0",
+  "version": "1.3.0",
   "description": "Jared's personal ESLint configuration.",
-  "keywords": "eslint,config,standard,standardjs",
   "main": "index.js",
-  "author": "Jared Reich <hello@jaredreich.com> (https://jaredreich.com)",
+  "author": "Jared Reich <jaredreich@gmail.com> (https://jaredreich.com)",
   "license": "MIT",
   "dependencies": {
     "eslint": "3.16.1",
