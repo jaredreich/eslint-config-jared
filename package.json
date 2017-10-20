@@ -6,10 +6,10 @@
   "author": "Jared Reich <jaredreich@gmail.com> (https://jaredreich.com)",
   "license": "MIT",
   "dependencies": {
-    "eslint": "3.16.1",
-    "eslint-config-standard": "6.2.1",
-    "eslint-plugin-html": "2.0.1",
-    "eslint-plugin-promise": "3.4.2",
-    "eslint-plugin-standard": "2.0.1"
+    "eslint": "4.9.0",
+    "eslint-config-standard": "10.2.1",
+    "eslint-plugin-html": "3.2.2",
+    "eslint-plugin-promise": "3.6.0",
+    "eslint-plugin-standard": "3.0.1"
   }
 }
