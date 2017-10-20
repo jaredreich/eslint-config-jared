@@ -7,7 +7,9 @@ module.exports = {
   ],
   'rules': {
     // ===== GENERAL =====
+    'comma-dangle': ['error', 'always-multiline'],
     'no-console': 'error',
+    'sort-keys': 'error',
     // ===== ES6 =====
     'arrow-body-style': ['error', 'as-needed'],
     'arrow-parens': ['error', 'as-needed'],
@@ -36,7 +38,7 @@ module.exports = {
     'prefer-template': 'error',
     'require-yield': 'error',
     'rest-spread-spacing': ['error', 'never'],
-    // 'sort-imports': ['error', { 'ignoreCase': true }],
+    'sort-imports': ['error', { 'ignoreCase': true }],
     // 'symbol-description': 'error',
     'template-curly-spacing': 'error',
     'yield-star-spacing': ['error', 'both']
