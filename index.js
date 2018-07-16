@@ -38,7 +38,7 @@ module.exports = {
     'prefer-template': 'error',
     'require-yield': 'error',
     'rest-spread-spacing': ['error', 'never'],
-    'sort-imports': ['error', { 'ignoreCase': true }],
+    // 'sort-imports': ['error', { 'ignoreCase': true }],
     // 'symbol-description': 'error',
     'template-curly-spacing': 'error',
     'yield-star-spacing': ['error', 'both'],
