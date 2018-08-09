@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-jared",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "Jared's personal ESLint configuration.",
   "main": "index.js",
   "author": "Jared Reich <jaredreich@gmail.com> (https://jaredreich.com)",
